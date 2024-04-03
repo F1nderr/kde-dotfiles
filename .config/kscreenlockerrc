@@ -1,0 +1,12 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+LockGrace=10
+LockOnResume=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/finder/Pictures/11-0-Night.jpg
+PreviewImage=/home/finder/Pictures/11-0-Night.jpg
+SlidePaths=/home/finder/.local/share/wallpapers/,/usr/share/wallpapers/

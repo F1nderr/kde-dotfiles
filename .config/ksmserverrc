@@ -1,0 +1,22 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10a2ae828a000169557398000000009070005
+clientId2=10a2ae828a000169557398500000009070007
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_10a2ae828a000169557398500000009070007_1695574249_854521
+program1=/usr/bin/firewall-applet
+program2=/usr/bin/konsole
+restartCommand1=/usr/bin/firewall-applet,-session,10a2ae828a000169557398000000009070005_1695574249_854538,-name,firewall-applet
+restartCommand2=/usr/bin/konsole,-session,10a2ae828a000169557398500000009070007_1695574249_854521
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=finder
+userId2=finder

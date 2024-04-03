@@ -1,0 +1,49 @@
+[DownloadDialog Settings]
+HDMI-1 Height 1920x1080=600
+HDMI-1 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=Main Layout.layout.latte,file:$HOME/Downloads/mcOS-Catalina-Small .layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,750
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=48,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=2
+sortOrder=0
+windowSize=980,630
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=HDMI-1:::0,0 1920x1080
+11=HDMI-A-0:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+inAdvancedModeForEditSettings=false
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Catalina Dock
+userConfiguredAutostart=true
+version=2

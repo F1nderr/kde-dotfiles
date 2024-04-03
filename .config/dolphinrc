@@ -1,0 +1,59 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[DetailsMode]
+PreviewSize=16
+
+[ExtractDialog]
+2048x1152 screen: Height=570
+2048x1152 screen: Width=1342
+2560x1440 screen: Height=732
+2560x1440 screen: Width=1673
+DirHistory[$e]=/media/SSD2/
+
+[General]
+GlobalViewProps=false
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2022,6,26,23,50,28.188
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:///media/SSD2/
+iconViewIconSize=64
+
+[KPropertiesDialog]
+1920x1080 screen: Height=574
+1920x1080 screen: Width=488
+2 screens: Height=692
+2 screens: Width=589
+2048x1152 screen: Height=466
+2048x1152 screen: Width=479
+2276x1280 screen: Height=602
+2276x1280 screen: Width=488
+2560x1440 screen: Height=658
+2560x1440 screen: Width=589
+HDMI-1 Height 1920x1080=572
+HDMI-1 Height 1920x1080 HDMI-1=430
+HDMI-1 Width 1920x1080=494
+HDMI-1 Width 1920x1080 HDMI-1=418
+VGA-1 Height 1366x768=616
+VGA-1 Width 1366x768=469
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
+
+[Search]
+What=Content

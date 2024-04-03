@@ -1,0 +1,6 @@
+[Common]
+CornerRadius=2
+
+[Style]
+DolphinSidebarOpacity=59
+WindowDragMode=WD_NONE

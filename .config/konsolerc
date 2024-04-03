@@ -1,0 +1,67 @@
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAMAA////+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAAAoAD///8AAAJmAAABqAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAOr/////AAAAAAAAAAA=
+VGA-1 Height 1366x768=464
+VGA-1 Width 1366x768=614
+VGA-1 XPosition 1366x768=339
+VGA-1 YPosition 1366x768=114
+
+[Desktop Entry]
+DefaultProfile=Main.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1920x1080 screen: Height=518
+1920x1080 screen: Width=826
+1920x1080 screen: XPosition=688
+1920x1080 screen: YPosition=419
+2 screens: Height=613
+2 screens: Width=900
+2 screens: XPosition=2969
+2 screens: YPosition=316
+2048x1152 screen: Height=490
+2048x1152 screen: Width=769
+2048x1152 screen: XPosition=946
+2048x1152 screen: YPosition=506
+2276x1280 screen: Height=481
+2276x1280 screen: Width=751
+2276x1280 screen: XPosition=699
+2276x1280 screen: YPosition=356
+2560x1440 screen: Height=613
+2560x1440 screen: Width=900
+2560x1440 screen: XPosition=830
+2560x1440 screen: YPosition=405
+DisplayPort-0=DisplayPort-0
+DisplayPort-0 HDMI-A-0=DisplayPort-0
+DisplayPort-2 HDMI-A-0=DisplayPort-2
+HDMI-1=HDMI-1
+HDMI-1 Height 1920x1080=528
+HDMI-1 Height 1920x1080 HDMI-1=523
+HDMI-1 Width 1920x1080=843
+HDMI-1 Width 1920x1080 HDMI-1=836
+HDMI-1 XPosition 1920x1080=538
+HDMI-1 XPosition 1920x1080 HDMI-1=572
+HDMI-1 YPosition 1920x1080=265
+HDMI-1 YPosition 1920x1080 HDMI-1=259
+HDMI-A-0=HDMI-A-0
+MenuBar=Enabled
+RestorePositionForNextInstance=false
+ToolBarsMovable=Disabled
+VGA-1 Height 1366x768=431
+VGA-1 Height 1920x975=405
+VGA-1 Height 800x602=473
+VGA-1 Width 1366x768=666
+VGA-1 Width 1920x975=637
+VGA-1 Width 800x602=638
+VGA-1 XPosition 1366x768=254
+VGA-1 XPosition 1920x975=669
+VGA-1 XPosition 800x602=38
+VGA-1 YPosition 1366x768=147
+VGA-1 YPosition 1920x975=273
+VGA-1 YPosition 800x602=29
+
+[TabBar]
+TabBarVisibility=AlwaysHideTabBar
+
+[UiSettings]
+ColorScheme=

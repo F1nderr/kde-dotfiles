@@ -1,0 +1,14 @@
+[General]
+FreeFloating=true
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+appstreamEnabled=false
+baloosearchEnabled=false
+krunner_appstreamEnabled=false
+krunner_kwinEnabled=false
+
+[Plugins][Favorites]
+plugins=krunner_services
